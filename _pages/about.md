@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Osman Batur İnce, and I am an AI Fellow at [KUIS AI Center](https://ai.ku.edu.tr/){:target="_blank"} and graduate student at Koç University. I have obtained my BSc degree from Bilkent University, Computer Science and hopefully my MSc from Koç University, Computer Science and Engineering. I plan on doing my PhD abroad, thus please feel free to contact me.
+I am a 1st year PhD student with the Centre for Doctoral Training in Designing Responsible Natural Language Processing at the University of Edinburgh, supervised by Dr Edoardo Ponti. I graduated from Master's in Computer Science from Koç University, where I was also an AI Fellow at KUIS AI Center.
 
-My research at KUIS AI Lab is focused on mainly natural language processing with a bit of computer vision sprinkled on it. I am advised by [Assoc. Prof. Aykut Erdem](https://aykuterdem.github.io/){:target="_blank"}. I am also working closely with [Assoc. Prof. Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/){:target="_blank"} from Hacettepe University.
-
+I am interested in developing efficient multimodal models that can systematically generalize across all sorts of settings. My MSc thesis is about leveraging language models' dynamics to improve their compositional generalization capabilities. I worked on multimodal compositional generalization, medical vision-language models, and medical language modeling as well.
 
 ### Research Experience
-- **KUIS AI Center** - *Graduate Researcher*
-    - My research interests can be broadly described as compositional generalization, multimodal compositional generalization, and vision-language applications.
+- **Centre for Doctoral Training in Designing Responsible NLP** - *PhD Student*
+    - Focusing on efficient multimodal models that can systematically generalize for trustworthy and faithful NLP applications
+- **KUIS AI Center** - *MSc Student*
+    - My research interests were broadly compositional generalization, multimodal learning, and medical vision-language applications.
 
 ### Teaching Experience
 - **Koç University** - *Teaching Assistant* 
-    - COMP201 - Computer Systems & Programming (Fall 2022, Spring 2023)
+    - COMP201 - Computer Systems & Programming (Fall 2022, Spring 2023, Fall 2023, Spring 2024)
