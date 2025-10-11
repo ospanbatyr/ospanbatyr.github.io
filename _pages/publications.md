@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- [Sample-efficient Integration of New Modalities into Large Language Models](https://arxiv.org/abs/2509.04606){:target="_blank"}
+    - On ArXiV
+
 - [Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare](https://cyberiada.github.io/Hippocrates/){:target="_blank"}
-    - On ArXiv as preprint
+    - Published in NAACL 2025
 
 - [Sequential Compositional Generalization in Multimodal Models](https://cyberiada.github.io/CompAct/){:target="_blank"}
     - Published in NAACL 2024
